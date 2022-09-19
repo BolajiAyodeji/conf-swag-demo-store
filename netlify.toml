@@ -9,6 +9,6 @@
   NEXT_PUBLIC_JSON_DATA_FOLDER="../../../data/json/"
 
 [template.environment]
-  SITE_URL="Base url of your website."
-  NEXT_PUBLIC_CL_CLIENT_ID="Commerce Layer Sales Channel Client ID."
-  NEXT_PUBLIC_CL_ENDPOINT="Commerce Layer Sales Channel Endpoint."
+  SITE_URL="https://shift-conf-2022-store.netlify.app"
+  NEXT_PUBLIC_CL_CLIENT_ID=fmGsaGui4oL9Jfyufo4W0hbma25DjAxC515C5GUTxo4
+  NEXT_PUBLIC_CL_ENDPOINT=https://shift-conf-2022.commercelayer.io
