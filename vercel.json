@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "buildCommand": "npm run build",
+  "outputDirectory": "demo-store-core/packages/website/.next",
+  "build": {
+    "env": {
+      "ENABLE_EXPERIMENTAL_COREPACK": "1",
+      "NEXT_PUBLIC_DATA_FETCHING": "ssr",
+      "NEXT_PUBLIC_JSON_DATA_FOLDER": "../../../data/json/",
+      "SITE_URL": "https://shift-conf-2022-store.netlify.app",
+      "NEXT_PUBLIC_CL_ENDPOINT": "https://shift-conf-2022.commercelayer.io"
+    }
+  }
+}
