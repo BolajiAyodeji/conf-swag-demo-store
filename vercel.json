@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "buildCommand": "npm run build",
   "outputDirectory": "demo-store-core/packages/website/.next",
   "build": {
