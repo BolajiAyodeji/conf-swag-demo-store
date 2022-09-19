@@ -8,5 +8,15 @@
     "name": "Italiano",
     "code": "it",
     "catalog": "AMER"
+  },
+  {
+    "name": "French",
+    "code": "fr",
+    "catalog": "AMER"
+  },
+  {
+    "name": "German",
+    "code": "de",
+    "catalog": "AMER"
   }
 ]
