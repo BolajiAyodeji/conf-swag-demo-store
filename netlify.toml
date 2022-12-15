@@ -9,6 +9,6 @@
   NEXT_PUBLIC_JSON_DATA_FOLDER="../../../data/json/"
 
 [template.environment]
-  SITE_URL="https://shift-conf-2022-store.netlify.app"
-  NEXT_PUBLIC_CL_CLIENT_ID="fmGsaGui4oL9Jfyufo4W0hbma25DjAxC515C5GUTxo4"
-  NEXT_PUBLIC_CL_ENDPOINT="https://shift-conf-2022.commercelayer.io"
+  SITE_URL="https://conf-swag-demo-store.netlify.app"
+  NEXT_PUBLIC_CL_CLIENT_ID="coF7ofOKxTlbYfNNeAzoywuyN2YX-WwFeTruov6FHvs"
+  NEXT_PUBLIC_CL_ENDPOINT="https://conf-swag-demo-store.commercelayer.io"

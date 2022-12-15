@@ -7,8 +7,8 @@
       "ENABLE_EXPERIMENTAL_COREPACK": "1",
       "NEXT_PUBLIC_DATA_FETCHING": "ssr",
       "NEXT_PUBLIC_JSON_DATA_FOLDER": "../../../data/json/",
-      "SITE_URL": "https://shift-conf-2022-store.netlify.app",
-      "NEXT_PUBLIC_CL_ENDPOINT": "https://shift-conf-2022.commercelayer.io"
+      "SITE_URL": "https://conf-swag-demo-store.netlify.app",
+      "NEXT_PUBLIC_CL_ENDPOINT": "https://conf-swag-demo-store.commercelayer.io"
     }
   }
 }

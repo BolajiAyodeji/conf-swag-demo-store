@@ -2,7 +2,7 @@
   {
     "name": "United States",
     "code": "US",
-    "market": 11300,
+    "market": 12095,
     "catalog": "AMER",
     "default_language": "en",
     "region": "Americas"
@@ -10,7 +10,7 @@
   {
     "name": "Australia",
     "code": "AU",
-    "market": 11300,
+    "market": 12094,
     "catalog": "AMER",
     "default_language": "en",
     "region": "Oceania"
@@ -26,7 +26,7 @@
   {
     "name": "Bolivia",
     "code": "BO",
-    "market": 11300,
+    "market": 12095,
     "catalog": "AMER",
     "default_language": "en",
     "region": "Americas"
@@ -34,7 +34,7 @@
   {
     "name": "Brazil",
     "code": "BR",
-    "market": 11300,
+    "market": 12095,
     "catalog": "AMER",
     "default_language": "en",
     "region": "Americas"
@@ -42,7 +42,15 @@
   {
     "name": "Canada",
     "code": "CA",
-    "market": 11300,
+    "market": 12095,
+    "catalog": "AMER",
+    "default_language": "en",
+    "region": "Americas"
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "market": 12095,
     "catalog": "AMER",
     "default_language": "en",
     "region": "Americas"
@@ -106,7 +114,7 @@
   {
     "name": "Mexico",
     "code": "MX",
-    "market": 11279,
+    "market": 12095,
     "catalog": "AMER",
     "default_language": "en",
     "region": "Americas"
@@ -146,7 +154,7 @@
   {
     "name": "United Kingdom",
     "code": "GB",
-    "market": 11302,
+    "market": 12096,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Europe"
