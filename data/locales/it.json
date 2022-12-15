@@ -1,0 +1,45 @@
+{
+  "general": {
+    "viewAll": "Mostra tutti",
+    "search": "cerca",
+    "addToCart": "Aggiungi al carrello",
+    "chooseCountry": "Cambia paese/regione",
+    "international": "Internazionale",
+    "resultsFor": "{{count}} risultati per \"{{query}}\"",
+    "all": "tutti",
+    "yourCart": "Il tuo carrello",
+    "countrySelector": {
+      "chooseCountry": "SCEGLI IL TUO PAESE/REGIONE",
+      "otherCountries": "Altri Paesi / Regioni:"
+    }
+  },
+  "seo": {
+    "title": "Commerce Layer Store",
+    "description": "Commerce Layer is a transactional commerce API that lets you add multi-market ecommerce to any digital experience, with ease."
+  },
+  "variants": {
+    "color": "Colori",
+    "size": "Seleziona la taglia"
+  },
+  "search": {
+    "facets": {
+      "gender": "Genere",
+      "category": "Categoria",
+      "price": {
+        "amount_float": "Prezzo"
+      },
+      "available": "Mostra solo i disponibi",
+      "color": "Colore",
+      "size": "Taglia"
+    },
+    "values": {
+      "#000000": "Nero",
+      "#FFFFFF": "Bianco",
+      "#C2C2C2": "Grigio",
+      "#E7DDC7": "Beige"
+    }
+  },
+  "product": {
+    "description": "Informazioni prodotto"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "general": {
+    "viewAll": "View all",
+    "search": "search",
+    "addToCart": "Add to cart",
+    "chooseCountry": "Choose country",
+    "international": "International",
+    "resultsFor": "{{count}} results for \"{{query}}\"",
+    "all": "all",
+    "yourCart": "Your Cart",
+    "countrySelector": {
+      "chooseCountry": "CHOOSE YOUR COUNTRY/REGION",
+      "otherCountries": "Other Countries / Regions:"
+    }
+  },
+  "seo": {
+    "title": "Commerce Layer Store",
+    "description": "Commerce Layer is a transactional commerce API that lets you add multi-market ecommerce to any digital experience, with ease."
+  },
+  "search": {
+    "variants": {
+    "color": "Colors",
+    "size": "Choose size"
+    },
+    "facets": {
+      "gender": "Gender",
+      "category": "Category",
+      "price": {
+        "amount_float": "Price"
+      },
+      "available": "Show only available",
+      "color": "Color",
+      "size": "Size"
+    },
+    "values": {
+      "#000000": "Black",
+      "#FFFFFF": "White",
+      "#C2C2C2": "Grey",
+      "#E7DDC7": "Beige"
+    }
+  },
+  "product": {
+    "description": "Product info"
+  }
+}
