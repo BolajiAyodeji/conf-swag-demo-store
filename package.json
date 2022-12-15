@@ -1,5 +1,5 @@
 {
-  "name": "demo-store",
+  "name": "conf-swag-demo-store",
   "private": true,
   "workspaces": [
     "demo-store-core/packages/*"
