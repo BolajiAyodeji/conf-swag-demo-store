@@ -7,6 +7,8 @@
 
 [build.environment]
   NEXT_PUBLIC_JSON_DATA_FOLDER="../../../data/json/"
+  NEXT_PUBLIC_LOCALES_DATA_FOLDER="../../../data/locales/"
+  NEXT_PUBLIC_CONFIG_FOLDER="../../../config/"
 
 [template.environment]
   SITE_URL="https://conf-swag-demo-store.netlify.app"
