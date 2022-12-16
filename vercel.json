@@ -9,7 +9,8 @@
       "NEXT_PUBLIC_JSON_DATA_FOLDER": "../../../data/json/",
       "NEXT_PUBLIC_LOCALES_DATA_FOLDER": "../../../data/locales/",
       "NEXT_PUBLIC_CONFIG_FOLDER": "../../../config/",
-      "SITE_URL": "https://conf-swag-demo-store.netlify.app",
+      "SITE_URL": "https://conf-swag-demo-store.vercel.app",
+      "NEXT_PUBLIC_CL_CLIENT_ID": "coF7ofOKxTlbYfNNeAzoywuyN2YX-WwFeTruov6FHvs",
       "NEXT_PUBLIC_CL_ENDPOINT": "https://conf-swag-demo-store.commercelayer.io"
     }
   }
