@@ -18,7 +18,7 @@
   {
     "name": "Belgium",
     "code": "BE",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Europe"
@@ -66,7 +66,7 @@
   {
     "name": "France",
     "code": "FR",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Europe"
@@ -74,7 +74,7 @@
   {
     "name": "Croatia",
     "code": "HR",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Europe"
@@ -98,7 +98,7 @@
   {
     "name": "Italy",
     "code": "IT",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "it",
     "region": "Europe"
@@ -122,7 +122,7 @@
   {
     "name": "Netherlands",
     "code": "NL",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Europe"
@@ -130,7 +130,7 @@
   {
     "name": "Nigeria",
     "code": "NG",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Africa"
@@ -146,7 +146,7 @@
   {
     "name": "South Africa",
     "code": "ZA",
-    "market": 11301,
+    "market": 12094,
     "catalog": "EMEA",
     "default_language": "en",
     "region": "Africa"
