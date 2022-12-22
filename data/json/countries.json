@@ -4,7 +4,7 @@
     "code": "US",
     "market": 12095,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en"],
     "region": "Americas"
   },
   {
@@ -12,7 +12,7 @@
     "code": "AU",
     "market": 12094,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Oceania"
   },
   {
@@ -20,7 +20,7 @@
     "code": "BE",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Europe"
   },
   {
@@ -28,7 +28,7 @@
     "code": "BO",
     "market": 12095,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Americas"
   },
   {
@@ -36,7 +36,7 @@
     "code": "BR",
     "market": 12095,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Americas"
   },
   {
@@ -44,7 +44,7 @@
     "code": "CA",
     "market": 12095,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Americas"
   },
   {
@@ -52,7 +52,7 @@
     "code": "CL",
     "market": 12095,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Americas"
   },
   {
@@ -60,7 +60,7 @@
     "code": "CN",
     "market": 11279,
     "catalog": "APAC",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Asia"
   },
   {
@@ -68,7 +68,7 @@
     "code": "FR",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Europe"
   },
   {
@@ -76,7 +76,7 @@
     "code": "HR",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Europe"
   },
   {
@@ -84,7 +84,7 @@
     "code": "HK",
     "market": 11279,
     "catalog": "APAC",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Asia"
   },
   {
@@ -92,7 +92,7 @@
     "code": "IN",
     "market": 11279,
     "catalog": "APAC",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Asia"
   },  
   {
@@ -100,7 +100,7 @@
     "code": "IT",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "it",
+    "languages": ["en", "it", "fr"],
     "region": "Europe"
   },
   {
@@ -108,7 +108,7 @@
     "code": "KR",
     "market": 11279,
     "catalog": "APAC",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Asia"
   },
   {
@@ -116,7 +116,7 @@
     "code": "MX",
     "market": 12095,
     "catalog": "AMER",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Americas"
   },
   {
@@ -124,7 +124,7 @@
     "code": "NL",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Europe"
   },
   {
@@ -132,7 +132,7 @@
     "code": "NG",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Africa"
   },
   {
@@ -140,7 +140,7 @@
     "code": "RU",
     "market": 11279,
     "catalog": "APAC",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Asia"
   },
   {
@@ -148,7 +148,7 @@
     "code": "ZA",
     "market": 12094,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Africa"
   },
   {
@@ -156,7 +156,7 @@
     "code": "GB",
     "market": 12096,
     "catalog": "EMEA",
-    "default_language": "en",
+    "languages": ["en", "it", "fr"],
     "region": "Europe"
   }
 ]
